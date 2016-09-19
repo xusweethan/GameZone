@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GameZone</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+ 	<string name="error_communication_exception">Couldn\'t connect to Server.\n\nCheck your network settings and try again.</string>
+</resources>
